@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### 💻 Технологии:
 
 <div>
@@ -12,9 +10,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://icons8.ru/icon/84710/bootstrap" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp
-  <img src="https://icons8.ru/icon/rY6agKizO9eb/vue-js" title="vue-js" alt="vue-js" width="40" height="40"/>&nbsp
-  <img src="https://icons8.ru/icon/tGvHBPJaKqEd/javascript" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=512&id=84710&format=png" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png" title="vue-js" alt="vue-js" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=512&id=108784&format=png" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <br>
+  <img src="https://img.icons8.com/?size=512&id=55251&format=png" title="csharp" alt="csharp" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/?size=512&id=P08kExl7rixR&format=png" title="unity" alt="unity" width="40" height="40"/>&nbsp
 </div>
 
 
